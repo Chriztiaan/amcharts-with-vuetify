@@ -2,5 +2,5 @@ module.exports = {
   "transpileDependencies": [
     "vuetify"
   ],
-  publicPath: '/chart-demo'
+  publicPath: '/amcharts-with-vuetify'
 }
